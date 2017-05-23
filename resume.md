@@ -1,71 +1,59 @@
-Markdown Resumé
-===============
+Resume
+======
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+陈永皇
+fiotose@gmail.com
+13153150724
+<https://yailm.github.io/blog/>
+<https://github.com/Yailm/wiki>
 
-Interests
----------
+教育
+----
 
-*   Creating beautiful resumés from simple Markdown documents
+*   **山东大学**, 2014 - 2018
 
+*   **微软俱乐部干事**, Mar 2015 - Nov 2015
 
-Work Experience
----------------
+*   **嵌入式物联网实验室**, May 2015 - present
 
-*   **Word Processor** (Redmond, WA)
+项目和作品
+----------
 
-    *Junior Resumé Maker*, 2006 - 2007
+*   **Smarlley 智能超市**
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    *队员，4人队伍*, 2016
+    -   2016年intel杯大学生软件创新大赛一等奖
+    -   这是以智能购物车为核心的未来超市概念系统，涉及室内定位、图像追踪、射频识别等技术，完善小车的功能以此来带给超市顾客全新的购物体验
 
-*   **\LaTeX\ + pdflatex**
+*   **Kpmlite 监控linux按键**
 
-    *Senior Resumé Maker*, 2008 - 2010
+    *个人完成*, 2016
+    -   用于在linux平台上记录按键历史，按需计算*keys per minute*，还存储到数据库中，用来观察自己的工作
+    -   当初学习协程写的项目，异步实现，利用dbus留下调用接口
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+*   **握力器游戏**
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    *个人完成*，2016
+    -   出于兴趣总共写了三个游戏，休闲时候锻炼一下
 
-    *Web Resumé Intern*, August 2010
+*   **公交管理系统**
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    *个人完成 数据库课设*, 2015
 
-*   **Markdown with Pandoc**
+    -   用爬虫采集济南公交信息，配合pyqtgraph显示成地图
 
-    *Resumé Architect*, February 2011 - present
+专业技能
+--------
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+*   较熟练使用python，会bash,perl,java
+*   经常使用linux，能搭建常见服务器
+*   sql基础，xml基础
+*   用过docker
 
+自我评价
+--------
 
-Education
----------
-
-*   **Github University** (World Wide Web)
-
-    *B.S. in Submodules*, May 2012
-
-
-Skills
-------
-
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
+*   分析能力不错，身边实验室的几位同学经常向我讲他们的项目让我帮助分析问题
+*   能独立解决问题，动手能力比较强
+*   挺喜欢运维开发这个方向，自己也尝试接触了docker vagrant graphite等的东西，但感觉需要企业的环境下才能有感觉和快速地成长
 
